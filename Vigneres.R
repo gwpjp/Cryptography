@@ -58,3 +58,4 @@ for (i in 2:nchar(code)){
   code2 <- paste(code2,fill)
 }
 code2
+#C H A R L E S B A B B A G E W A S A N E C C E N T R I C G E N I U S B E S T K N O W N F O R D E V E L O P I N G T H E B L U E P R I N T F O R T H E M O D E R N C O M P U T E R H E W A S T H E S O N O F B E N J A M I N B A B B A G E A W E A L T H Y L O N D O N B A N K E R H E A P P L I E D H I S G E N I U S T O M A N Y P R O B L E M S H I S I N V E N T I O N S I N C L U D E T H E S P E E D O M E T E R A N D T H E C O W C A T C H E R
